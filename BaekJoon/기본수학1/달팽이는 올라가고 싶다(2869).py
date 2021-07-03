@@ -6,7 +6,7 @@ else:
     print(int((v-a) / (a-b)+2))
 
 
-
+달팽잏ㅎ
 """
 while True:
     v = v - a
